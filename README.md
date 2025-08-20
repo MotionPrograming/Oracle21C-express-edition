@@ -1,11 +1,7 @@
 # Oracle21C-express-edition
 I am Md Abdullah Rajeeb student of university of scholars 14th batch CSE. I am struggling to install the oracle 21c express edition on the ubuntu (Linux). I found the way to make it work. So, i am sharing the method. 🌠
 
-Got it 👍 You want the same **installation guide** but with **Tousif Tasrik’s name and credits removed**, making it a clean, neutral tutorial.
-
-Here’s the updated version 👇
-
----
+Got it 👍 You want the same **installation guide** -->
 
 # 🚀 Install Oracle 21C Express Edition on Ubuntu 22.04+ using Docker 🐳
 
